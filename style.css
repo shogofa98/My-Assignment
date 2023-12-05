@@ -1,0 +1,138 @@
+header{
+    background-color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    display: flex;
+    justify-content: flex-end;
+    position: flexed;
+}
+nav a{
+    color: white;
+    margin: 0;
+    widthe: 80px;
+    padding-right: 20px;
+    padding-lift: 20px;
+
+}
+ main{
+    background-color: white;
+    /*justify-content: center;*/
+      widthe: 800px;
+      margin-left: auto;
+      margin-right: auto;
+      padding-left: 100px;
+      padding-right:100px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      margin-left: 10px;
+      margin-lift: 10px;
+
+
+    
+}
+body{
+    margin-lift:700px;
+    margin-right:auto;
+    borde: solid;
+    widthe: 800px;
+    background-color: skyblue;
+
+}
+img{
+    width: 300px;
+}
+#best-seller{
+   /* text-align: center;*/
+    margin: 0;
+}
+    #best-seller .img {
+        width: 400px;
+        display: flex;
+    }
+    #article-container {
+        display: flex;}
+
+    #article-contint{
+        background-color: white;
+        widthe: 100px;
+         
+    }
+    #article-sidebar img {
+        width: 300px;
+
+    }
+    h2{
+        text-align: lift;
+    }
+    footer{
+        background-color: black;
+        text-align: center;
+        color: white;
+        display: flex;
+        justify-content: center;
+    }
+    .row{
+        display: flex;
+        margin-top: 50px;
+        gap: 40px;
+        margin-left: 20px;
+        justify-content: center;
+    }
+    .item{
+        display: block;
+        text-align: center;
+        border: 5px solid black;
+        color: white;
+        width: 150px;
+        position: relative;
+        background-color: pink;
+        margin-bottom: 30px;
+    }
+    .item img{
+        width: 150px;
+        display: block;
+        height: 150px;
+    }
+    .item name{
+        background-color: blue;
+        height: 40px;
+        position: absolute;
+        width: 100px;
+    }
+    .item:hover .item-name{
+        visibility: visible;
+    }
+    #item{
+       display: block;
+        text-align: center;
+        border: 5px solid black;
+        color: white;
+        width: 150px;
+        position: relative;
+        background-color: pink;
+        margin-bottom: 30px;  
+    }
+    #item name{
+        background-color: blue;
+        height: 40px;
+        position: absolute;
+        width: 100px;
+    }
+    #item img{
+         width: 150px;
+        display: block;
+        height: 150px;
+    }
+    #row{
+        display: flex;
+        margin-top: 50px;
+        gap: 40px;
+        margin-left: 20px;
+        justify-content: center;
+    }
+    #head img{
+        width: 500px;
+    }
